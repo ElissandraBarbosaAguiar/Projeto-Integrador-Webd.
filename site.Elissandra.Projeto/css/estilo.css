@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	left: 0;
+
+}
+
+nav ul {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	list-style-type: none;
+	overflow: hidden;
+	background: #1ed2e6a8;
+	font-family: Trebuchet MS; sans-serif;
+	margin-top: 0;
+}
+
+li {
+	float: left;
+	text-align: center;
+}
+
+li a {
+	text-align: center;
+	display: inline-block;
+	color: #1ed2e6a8;
+	padding: 15px 17px;
+	text-decoration: none;
+	font-size: 20px;
+	transition: 2s;
+}
+
+li a:hover {
+	color: #1ed2e6a8;
+	background: white;
+	transition: 2s;
+}
+
+
+.img1 img {
+	width: 100vw;
+	height: 100vh;
+	margin: 0;
+	left: 0;
+	padding: 0;
+	opacity: .5;
+	transition: 2s;
+}
+
+.img1 img:hover {
+	opacity: 1;
+	transition: 2;
+}
