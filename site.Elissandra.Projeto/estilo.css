@@ -1,0 +1,14 @@
+.flex-contanier{
+			 background-color: lightblue;
+			 display: flex;
+			 flex-direction: row;
+			 flex-wrap: wrap;
+			 
+			 
+
+		}
+			.flex-contanier div{
+				margin: 4px;
+				background-color: #f1f1f1;
+				width: 800px;
+			}
