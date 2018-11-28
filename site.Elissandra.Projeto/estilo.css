@@ -1,14 +1,17 @@
 .flex-contanier{
-			 background-color: lightblue;
+			 background-color: #01A9DB;
 			 display: flex;
 			 flex-direction: row;
 			 flex-wrap: wrap;
+
 			 
 			 
 
-		}
+		}  /* contanier do rodapé  */
 			.flex-contanier div{
-				margin: 4px;
-				background-color: #f1f1f1;
+				margin: 300px;
+				background-color:#01A9DB;
 				width: 800px;
+				text-orientation: center;
+
 			}
