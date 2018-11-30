@@ -1,8 +1,9 @@
 .flex-contanier{
 			 background-color: #01A9DB;
-			 display: flex;
+			 display: inline-flex;
 			 flex-direction: row;
 			 flex-wrap: wrap;
+
 
 			 
 			 
