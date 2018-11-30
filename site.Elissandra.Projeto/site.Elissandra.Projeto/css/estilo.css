@@ -10,7 +10,7 @@ nav ul {
 	justify-content: center;
 	list-style-type: none;
 	overflow: hidden;
-	background: #1ed2e6a8;
+	background: #01A9DB;
 	font-family: Trebuchet MS; sans-serif;
 	margin-top: 0;
 }
@@ -23,7 +23,7 @@ li {
 li a {
 	text-align: center;
 	display: inline-block;
-	color: #1ed2e6a8;
+	color: #0B0B61;
 	padding: 15px 17px;
 	text-decoration: none;
 	font-size: 20px;
@@ -31,7 +31,7 @@ li a {
 }
 
 li a:hover {
-	color: #1ed2e6a8;
+	color: #0B0B61;
 	background: white;
 	transition: 2s;
 }
@@ -44,7 +44,7 @@ li a:hover {
 	left: 0;
 	padding: 0;
 	opacity: .5;
-	transition: 2s;
+	transition: 5s;
 }
 
 .img1 img:hover {

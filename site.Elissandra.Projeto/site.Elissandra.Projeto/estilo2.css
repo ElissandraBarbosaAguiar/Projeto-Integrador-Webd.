@@ -3,9 +3,7 @@ p{
    width: 49%;
    float: left;
 
-}
-.vermelho{
-          border: red 1px solid;
+
 
 }
 
@@ -16,9 +14,14 @@ p{
 
 div{
 	  float: left;
-}
 
+ }
+ div ul{
+ 	text-decoration: center;
+ 	text-orientation: center;
+ 	width: 50%;
 
+ }
 #esquerda{
       width: 70%;
 
@@ -35,4 +38,7 @@ div{
 }
 ul li{
 	display: :inline;
-}
+
+
+
+

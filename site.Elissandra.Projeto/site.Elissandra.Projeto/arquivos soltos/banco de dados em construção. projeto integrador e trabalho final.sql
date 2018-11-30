@@ -90,3 +90,11 @@ values (aula,colaborador,tema,nemerodovideo )
 insert into videos 
 
 
+<embed  src="video.mp4" width="200" height="200"></embed>
+
+<embed  src="aula.seja um programador.mp4" width="200" height="200"></embed>
+
+<embed  src="aula.introdução a algoritmo.mp4" width="200" height="200"></embed>
+<embed  src="aula.introdução a algoritmo.mp4" width="200" height="200"></embed> 
+<embed  src="aula.introdução a algoritmo.mp4" width="200" height="200"></embed>
+<embed  src="aula.introdução a algoritmo.mp4" width="200" height="200"></embed>
