@@ -10,7 +10,7 @@ nav ul {
 	justify-content: center;
 	list-style-type: none;
 	overflow: hidden;
-	background: #01A9DB;
+	background: #A4A4A4;
 	font-family: Trebuchet MS; sans-serif;
 	margin-top: 0;
 }
@@ -23,7 +23,7 @@ li {
 li a {
 	text-align: center;
 	display: inline-block;
-	color: #0B0B61;
+	color: #000000;
 	padding: 15px 17px;
 	text-decoration: none;
 	font-size: 20px;
@@ -33,7 +33,7 @@ li a {
 li a:hover {
 	color: #0B0B61;
 	background: white;
-	transition: 2s;
+	transition: 1s;
 }
 
 
