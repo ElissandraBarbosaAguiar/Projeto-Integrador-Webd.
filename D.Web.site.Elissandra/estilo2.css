@@ -1,0 +1,44 @@
+p{
+   border-color: black;
+   width: 49%;
+   float: left;
+
+
+
+}
+
+.azul{
+        border:blue 1px solid;
+
+}
+
+div{
+	  float: left;
+
+ }
+ div ul{
+ 	text-decoration: center;
+ 	text-orientation: center;
+ 	width: 50%;
+
+ }
+#esquerda{
+      width: 70%;
+
+}
+
+#direita{
+         width: 28%;
+
+}
+
+#direita img{
+         width: 50%;
+
+}
+ul li{
+	display: :inline;
+
+
+
+

@@ -1,0 +1,18 @@
+.flex-contanier{
+			 background-color: #01A9DB;
+			 display: inline-flex;
+			 flex-direction: row;
+			 flex-wrap: wrap;
+
+
+			 
+			 
+
+		}  /* contanier do rodapé  */
+			.flex-contanier div{
+				margin: 300px;
+				background-color:#01A9DB;
+				width: 800px;
+				text-orientation: center;
+
+			}
